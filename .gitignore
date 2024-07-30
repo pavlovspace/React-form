@@ -12,6 +12,7 @@ desktop.ini
 
 # Ignore dependencies and build temporary files
 node_modules/
+package-lock.json
 bower_components/
 *.log
 *.lock
